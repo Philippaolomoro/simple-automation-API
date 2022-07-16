@@ -1,0 +1,23 @@
+{
+  "name": "simple-automation-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philippaolomoro/simple-automation-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Philippaolomoro/simple-automation-API/issues"
+  },
+  "homepage": "https://github.com/Philippaolomoro/simple-automation-API#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
