@@ -8,7 +8,7 @@ An algorithm to scrap all products from an imaginary e-commerce JSON API and acc
 
 ## Methods:
     
-The can be found in the `index.js` file and they include:
+They can be found in the `index.js` file and include:
 
 getProducts: A function to get products of various price ranges with the use of the `axios` GET method. It takes in two parameters:
 - `minPrice`: this sets the minimum price query parameter
